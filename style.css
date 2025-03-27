@@ -1,0 +1,36 @@
+/******************TAG SELECTOR*******************/
+
+h1{
+ color:brown;
+ font-size: 200px;
+}
+
+/*
+img {
+background-color: rgb(252, 3, 3);
+}
+
+
+/******************CLASS SELECTOR*******************/
+
+.brownies{
+background-color: rgba(182, 112, 8, 0.911);
+}
+
+.bacon{
+    background-color: green;
+}
+
+.circular {
+    border-radius: 100%; 
+}
+
+/********************ID SELECTORS*******************/
+
+#heading {
+    color: rgba(102, 46, 0, 0.671);
+}
+
+.big {
+    font-size: 1000px;
+}
